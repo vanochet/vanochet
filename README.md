@@ -1,4 +1,4 @@
-## Hi, I'm a TalismanChet:
+## Hi, I'm a Vi Vavylone:
 My name is Vi, i'm a Python and fasm Developer (System programmer).
 
 In future, i'm planning to create the best OS in the history!
